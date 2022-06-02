@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import styles from './style'
 import AppIntroSlider from 'react-native-app-intro-slider'
 import RenderSlides from './components/RenderSlides';
 import ButtonPress from './components/ButtonPress';
