@@ -1,4 +1,3 @@
-import { View, Text, Image, Button } from 'react-native'
 import React, { useState } from 'react'
 import styles from './style'
 import AppIntroSlider from 'react-native-app-intro-slider'
